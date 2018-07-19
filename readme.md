@@ -19,33 +19,23 @@ On successful completion of this course, you will be able to:
 
 <div class="enhanceable_content tabs" mardown="1">
 
-    * [Learning Outcomes](#fragment-1)  
-    * [Assessment 1](#fragment-2)  
-    * [Assessment 2](#fragment-3)  
-    * [Assessment 3](#fragment-4)  
-
-</div>
+	<ul>
+		<li><a href="#fragment-1">Stuff1</a></li>
+		<li><a href="#fragment-2">Stuff2</a></li>
+		<li><a href="#fragment-3">Stuff3</a></li>
+		<li><a href="#fragment-4">Stuff4</a></li>
+	</ul>
 
 <div id="fragment-1" markdown="1">
-
-# Learning Outcomes
-
+<h1 id="learning-outcomes">Learning Outcomes</h1>
 </div>
-
 <div id="fragment-2" markdown="1">
-
-# Assessment 1
-
+<h1 id="assessment-1">Assessment 1</h1>
 </div>
-
 <div id="fragment-3" markdown="1">
-
-# Assessment 2
-
+<h1 id="assessment-2">Assessment 2</h1>
 </div>
-
 <div id="fragment-4" markdown="1">
-
-# Assessment 3
-
+<h1 id="assessment-3">Assessment 3</h1>
+</div>
 </div>
