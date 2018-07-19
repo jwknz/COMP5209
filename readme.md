@@ -19,10 +19,10 @@ On successful completion of this course, you will be able to:
 
 <div class="enhanceable_content tabs" mardown="1">
 
-    * [Learning Outcomes](#fragment-1)
-    * [Assessment 1](#fragment-2)
-    * [Assessment 2](#fragment-3)
-    * [Assessment 3](#fragment-4)
+    * [Learning Outcomes](#fragment-1)  
+    * [Assessment 1](#fragment-2)  
+    * [Assessment 2](#fragment-3)  
+    * [Assessment 3](#fragment-4)  
 
 </div>
 
