@@ -1,4 +1,4 @@
-![Toi Ohomai Banner](images/1600x200 Banners_Teal_Logo.jpg)
+![Toi Ohomai Banner]('images/1600x200 Banners_Teal_Logo.jpg')
 
 # Welcome to Interface Analysis and Design
 
