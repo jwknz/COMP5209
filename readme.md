@@ -1,4 +1,8 @@
-<link href="https://simplesslstuff.azurewebsites.net/mooodle.css" rel="stylesheet" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
+<style>
+    body {
+        max-width: 70%;
+    }
+</style>
 
 ![Toi Ohomai Banner](https://raw.githubusercontent.com/ToiOhomaiBCS/COMP5209/master/images/800x100_Banners_Teal_Logo.jpg)
 
