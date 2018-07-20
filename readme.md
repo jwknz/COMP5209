@@ -1,6 +1,8 @@
 <style>
-    .mycontent {
-        max-width: 70%;
+    @media screen and (min-width: 1921px) {
+        .mycontent {
+            max-width: 70%;
+        }
     }
 </style>
 
