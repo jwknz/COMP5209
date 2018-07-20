@@ -1,8 +1,10 @@
 <style>
-    body {
+    .mycontent {
         max-width: 70%;
     }
 </style>
+
+<div class="mycontent" markdown="1">
 
 ![Toi Ohomai Banner](https://raw.githubusercontent.com/ToiOhomaiBCS/COMP5209/master/images/800x100_Banners_Teal_Logo.jpg)
 
@@ -65,3 +67,5 @@ You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz
         <td><a href="https://github.com/to-jk11" target="_blank">@to-jk11</a></td>
     </tr>
 </table>
+
+</div>
