@@ -1,4 +1,3 @@
-<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
 <link href="https://simplesslstuff.azurewebsites.net/mooodle.css" rel="stylesheet" integrity="sha384-Smlep5jCw/wG7hdkwQ/Z5nLIefveQRIY9nfy6xoR1uRYBtpZgI6339F5dgvm/e9B" crossorigin="anonymous">
 
 ![Toi Ohomai Banner](https://raw.githubusercontent.com/ToiOhomaiBCS/COMP5209/master/images/800x100_Banners_Teal_Logo.jpg)
@@ -24,17 +23,22 @@ On successful completion of this course, you will be able to:
 
 For this course we use Microsoft Teams. 
 
-### Step 1 => [Add yourself to the organisation group](https://teams.microsoft.com/l/team/19%3a57302c5707444bb8ab2da2015ebe2fc5%40thread.skype/conversations?groupId=c3898564-36ea-4de6-ad3e-1078803e7c08&tenantId=815440c3-a540-465b-8edb-bf726bde064b)
+**Step 1 =>** [Add yourself to the organisation group](https://teams.microsoft.com/l/team/19%3a57302c5707444bb8ab2da2015ebe2fc5%40thread.skype/conversations?groupId=c3898564-36ea-4de6-ad3e-1078803e7c08&tenantId=815440c3-a540-465b-8edb-bf726bde064b)
 You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz` account since that is who you have been invited as.
 
-### Step 2 => [This is the teams channel that we use](https://teams.microsoft.com/_#/discover)
+**Step 2 =>** [This is the teams channel that we use](https://teams.microsoft.com/_#/discover)
+
+## Course Feedback or to be excused from class
+
+[Use the tga.ecti.ac.nz contact form](https://tga.ecti.ac.nz/contact)
 
 # Classtimes
 
 | Day | Length | Time | Room |
 | --- | --- | --- | --- |
-| Wednesday | 60 Minutes | 2:00pm - 2:50pm | DT303 |
-| Friday | 240 Minutes | 01:00pm - 05:00pm | DT303 |
+| Monday | 110 Minutes | 8:00am - 9:50am | DT303 |
+| Wednesday | 50 Minutes | 08:00am - 08:50am | DT303 |
+| Friday | 110 Minutes | 10:10am - 12:00pm | DT303 |
 
 # Tutor
 
@@ -57,8 +61,3 @@ You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz
         <td><a href="https://github.com/to-jk11" target="_blank">@to-jk11</a></td>
     </tr>
 </table>
-
-## Course Feedback or to be excused from class
-
-[Use the tga.ecti.ac.nz contact form](https://tga.ecti.ac.nz/contact)
-
