@@ -9,3 +9,10 @@ When we look at the website we often limit our experience of the website by how 
 
 **UI IS IMPORTANT** and **UI IS PART OF UX**
 
+User Experience goes beyond the design of how we interact with a product. It also looks at why a person would use a product and how the exeperience is for a user with a company beyond the product. The idea is that the product you create reflects what the business is about and "who" the business and its owner is.
+
+> A user's impressions of a website should be the same as if they where to interact with that business in person
+
+## UI = User Interface
+
+User Interface is focused on the looks of a product (app or website) 

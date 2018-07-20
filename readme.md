@@ -1,11 +1,3 @@
-<style>
-    @media screen and (min-width: 1921px) {
-        .mycontent {
-            max-width: 70%;
-        }
-    }
-</style>
-
 <div class="mycontent" markdown="1">
 
 ![Toi Ohomai Banner](https://raw.githubusercontent.com/ToiOhomaiBCS/COMP5209/master/images/800x100_Banners_Teal_Logo.jpg)
