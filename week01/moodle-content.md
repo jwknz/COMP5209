@@ -16,3 +16,6 @@ User Experience goes beyond the design of how we interact with a product. It als
 ## UI = User Interface
 
 User Interface is focused on the looks of a product (app or website) 
+
+[EXTERNAL => TESTING THIS LINK](http://google.com)
+[INTERNAL => TESTING THIS LINK](lesson-plan-01.md)
