@@ -6,7 +6,7 @@
 
 ## Course Outline
 
-[Click here to get the course outline](https://drive.google.com/a/g.toiohomai.ac.nz/file/d/15IOW7jRFHIs11rE0RyqA9SlH_5ItaqPN/view?usp=sharing)
+<a href="https://drive.google.com/a/g.toiohomai.ac.nz/file/d/15IOW7jRFHIs11rE0RyqA9SlH_5ItaqPN/view?usp=sharing" target="_blank"><button class="btn btn-info">Get Course Outline</button></a>
 
 ## Learning Outcomes
 
