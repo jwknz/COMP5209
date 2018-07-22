@@ -24,3 +24,5 @@ UI is part of the UX design and it focuses on the visual appeal of the product.
 The video above talked about the term "desire paths", The path people will choose to navigate through your app.
 
 As a UX developer it is your job to make sure you make it as straight forward and easy for people to get to the places you least expect them to go. It is also the important that they can get to and back from the places they navigate to.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H4wW68ls44w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
