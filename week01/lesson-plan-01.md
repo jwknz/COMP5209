@@ -35,3 +35,7 @@ Think about creating a portfolio - not marked, but really well worth it.
 # If there is time
 
 * Setup Tools (VSCODE, GIT, EXTENSIONS (LIVE-SERVER), FIGMA, DRAW.IO, MS TEAMS, GDRIVE)
+
+* BREAKS AS REQUIRED
+
+* SUMMARY AT THE END
