@@ -23,17 +23,30 @@ The video above talked about the term "desire paths", The path people will choos
 
 As a UX developer it is your job to make sure you make it as straight forward and easy for people to get to the places you least expect them to go. It is also the important that they can get to and back from the places they navigate to.
 
+## Videos
+
 <div class="row">
 <div class="col-md-3 col-sm-6">
-    <iframe style="width: 100%; height: 310px;" src="https://www.youtube.com/embed/H4wW68ls44w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe style="width: 100%; height: 250px;" src="https://www.youtube.com/embed/P9B8PmUR64U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 <div class="col-md-3 col-sm-6">
-    <iframe style="width: 100%; height: 310px;" src='https://www.lynda.com/player/embed/702043?fs=3&w=560&h=315&ps=paused&utm_medium=referral&utm_source=embed+video&utm_campaign=ldc-website&utm_content=vid-702043' mozallowfullscreen='true' webkitallowfullscreen='true' allowfullscreen='true' frameborder='0'></iframe>
+    <iframe style="width: 100%; height: 250px;" src="https://www.youtube.com/embed/H4wW68ls44w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+<div class="col-md-3 col-sm-6">
+    <iframe style="width: 100%; height: 250px;" src='https://www.lynda.com/player/embed/702043?fs=3&w=560&h=315&ps=paused&utm_medium=referral&utm_source=embed+video&utm_campaign=ldc-website&utm_content=vid-702043' mozallowfullscreen='true' webkitallowfullscreen='true' allowfullscreen='true' frameborder='0'></iframe>
 </div>
 <div class="col-md-3 col-sm-6">
     <iframe style="width: 100%; height: 250px;" src="https://www.youtube.com/embed/KtvwustmEDI?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
-<div class="col-md-3 col-sm-6">
-    <iframe style="width: 100%; height: 310px;" src="https://www.youtube.com/embed/P9B8PmUR64U" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+## Slides
+
+<div class="row">
+    <div class="col-sm-6">
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTi_Pom14_8pYYpT5t4njRbXCr6ccu0bWFArozShUd7b6efk8tze1M9Rfqfb2i9XTyvzXCttRYaxpUt/embed?start=false" frameborder="0" style="width: 100%; height: 310px;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
+    <div class="col-sm-6">
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXeh91pBkCzYpVqiYGbrmrEmdCcaAmpOQYFFOOPdNKizkCdZp1NwqagSMXpPT_tJ7dzMbqB_7IpNAx/embed?start=false" frameborder="0" style="width: 100%; height: 310px;" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
 </div>
