@@ -42,6 +42,7 @@ You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz
 
 # Tutor
 
+<div id="tutor-content1">
 <table style="border-collapse: collapse; ">
     <tr>
         <td style="width: 30%">Name:</td>
@@ -61,5 +62,28 @@ You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz
         <td><a href="https://github.com/to-jk11" target="_blank">@to-jk11</a></td>
     </tr>
 </table>
+</div>
+
+<div id="tutor-content2">
+<table style="border-collapse: collapse; ">
+    <tr>
+        <td style="width: 30%">Name:</td>
+        <td style="width: 50%">Shane Paul</td>
+    </tr>
+    <tr>
+        <td><i class="fa fa-envelope">&nbsp;</i>Email:</td>
+        <td><a href="mailto: shane.paul@toiohomai.ac.nz" target="_blank">shane.paul@toiohomai.ac.nz</a> (used for official matters)</td>
+    </tr>
+</table>
+</div>
+
+<script>
+    let header = document.querySelector('#yui_3_17_2_1_1532306250236_25');
+    if(header.innerHTML.includes("TG")) {
+        document.querySelector('#tutor-content2').style("display: none;")
+    } else if(header.innerHTML.includes("RO")) {
+        document.querySelector('#tutor-content1').style("display: none;")
+    }
+</script>
 
 </div>
