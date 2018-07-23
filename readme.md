@@ -78,6 +78,7 @@ You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz
 </div>
 
 <script>
+
     let header = document.querySelector('#yui_3_17_2_1_1532306250236_25');
     if(header.innerHTML.includes("TG")) {
         document.querySelector('#tutor-content2').style("display: none;")
@@ -85,7 +86,7 @@ You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz
         document.querySelector('#tutor-content1').style("display: none;")
     }
 
-    console.log(`HEADER => ${header.innerHTML}`)
+    console.log(`HEADER => ${header.innerHTML()}`)
 </script>
 
 </div>
