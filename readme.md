@@ -84,6 +84,8 @@ You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz
     } else if(header.innerHTML.includes("RO")) {
         document.querySelector('#tutor-content1').style("display: none;")
     }
+
+    console.log(`HEADER => ${header.innerHTML}`)
 </script>
 
 </div>
