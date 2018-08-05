@@ -62,4 +62,11 @@ You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz
     </tr>
 </table>
 
+# Assignments
+
+| Assignment # | Marking guide |
+| --- | --- |
+| [Assignment 1](https://drive.google.com/open?id=15OgA1v2V6eaS27v529SAtr5dpXHy_7U2) | [Marking Guide 1](https://drive.google.com/open?id=1aUzPZg9q-KBPZPGQW8Kzzxq1LW-WuSkd) |
+
+
 </div>
