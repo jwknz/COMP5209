@@ -33,3 +33,9 @@ We may interview people to gain more insight of what is actually required and wh
 
 # Slides
 
+<div class="row">
+    <div class="col-md-6">
+        <iframe style="width: 100%; height: 310px;" src="https://docs.google.com/presentation/d/e/2PACX-1vQR6ixYhfXyFW4pKzW_NlrdcqIRdZMgjY3MxlttNQviCduZmdykarK-8XA6gl2uhCyw9lyNF9fHR8yA/embed?start=false" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+    </div>
+</div>
+
