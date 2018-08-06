@@ -38,10 +38,13 @@ Demo these as required - some students asked for this to help them with the
 ## VSCODE as your IDE
 
 * Live-server
-* NPM packages (you need node installed)
+* Using NPM packages (you need node installed)
 * Emmet.io
 * How to use git in vscode (GUI Way)
+* [NPM VS CDN](https://laracasts.com/discuss/channels/general-discussion/npm-install-vs-pulling-from-a-cdn)
 
+* *CDN => Content Delivery Network*
+* *NPM => Node Package Manager*
 
 ## Wireframes
 
