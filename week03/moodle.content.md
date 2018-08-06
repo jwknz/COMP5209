@@ -2,6 +2,7 @@
 
 <div class="row">
     <div class="col-md-6">
+
 **Rich Pictures** are used to portrait the idea of a product to another person through a story.
 So far we have looked at User Flow and User Journeys.
 
