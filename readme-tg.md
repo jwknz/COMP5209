@@ -1,6 +1,6 @@
-<div class="mycontent" markdown="1">
+<div class="mycontent" markdown="1" style="margin:0; padding:0">
 
-![Toi Ohomai Banner](https://raw.githubusercontent.com/ToiOhomaiBCS/COMP5209/master/images/800x100_Banners_Teal_Logo.jpg)
+<img src="https://raw.githubusercontent.com/ToiOhomaiBCS/COMP5209/master/images/800x100_Banners_Teal_Logo.jpg" alt="Toi Ohomai Banner" style="width:100%">
 
 # Welcome to Interface Analysis and Design
 
