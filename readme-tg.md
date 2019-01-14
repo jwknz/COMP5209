@@ -1,12 +1,10 @@
 <div class="mycontent" markdown="1">
 
-![Toi Ohomai Banner](https://raw.githubusercontent.com/ToiOhomaiBCS/COMP5209/master/images/800x100_Banners_Teal_Logo.jpg)
-
 # Welcome to Interface Analysis and Design
 
 ## Course Outline
 
-<a href="https://drive.google.com/a/g.toiohomai.ac.nz/file/d/15IOW7jRFHIs11rE0RyqA9SlH_5ItaqPN/view?usp=sharing" target="_blank"><button class="btn btn-info">Get Course Outline</button></a>
+<a href="https://drive.google.com/a/g.toiohomai.ac.nz/file/d/149HmxqgKybATGYkSCs6FhqSZZ22rlXN-" target="_blank"><button class="btn btn-info">Get Course Outline</button></a>
 
 ## Learning Outcomes
 
@@ -14,31 +12,27 @@ The aim of this course is to provide students with the skills to analyse and eva
 
 On successful completion of this course, you will be able to:
 
-1. Determine client requirements for a web application.
+1. Determine client requirements for a **web** application.
 2. Carry out the responsive design (with device and platform independence) of user experience.
-3. Optimise media for the web.
-4. Select an appropriate web technology framework
+3. Optimise media for the **web**.
+4. Select an appropriate **web** technology framework
+
+This course also covers HTML and CSS to be able to code your designs.
 
 ## Contact your tutor
 
-For this course we use Microsoft Teams. 
+Your tutor can be contact through Moodle. You are free to choose to receive all message by email or download the Moodle mobile app from the App Store:
 
-**Step 1 =>** [Add yourself to the organisation group](https://teams.microsoft.com/l/team/19%3a57302c5707444bb8ab2da2015ebe2fc5%40thread.skype/conversations?groupId=c3898564-36ea-4de6-ad3e-1078803e7c08&tenantId=815440c3-a540-465b-8edb-bf726bde064b)
-You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz` account since that is who you have been invited as.
+[iOS App can be downloaded here](https://itunes.apple.com/nz/app/moodle/id633359593)
 
-**Step 2 =>** [This is the teams channel that we use](https://teams.microsoft.com/_#/discover)
-
-## Course Feedback or to be excused from class
-
-[Use the tga.ecti.ac.nz contact form](https://tga.ecti.ac.nz/contact)
+[Android App can be downloaded here](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile)
 
 # Classtimes
 
 | Day | Length | Time | Room |
 | --- | --- | --- | --- |
-| Monday | 110 Minutes | 8:00am - 9:50am | DT303 |
-| Wednesday | 50 Minutes | 08:00am - 08:50am | DT303 |
-| Friday | 110 Minutes | 10:10am - 12:00pm | DT303 |
+| Monday | 120 Minutes | 9:00am - 11:00am | J141 |
+| Tuesday | 180 Minutes | 9:00am - 12:00pm | J141 |
 
 # Tutor
 
@@ -64,15 +58,8 @@ You will need an Microsoft account, please sign in with your `@g.toiohomai.ac.nz
 
 # Assignments
 
-| Assignment Scenario |
-| --- |
-| [Toi Ohomai Cafe Scenario](https://docs.google.com/document/d/1idHUJmhBdHytbmegqvf0RpuDwzNJ1G_eK3OR-3qnBCM/edit?usp=sharing) |
-
----
-
-| Assignment # | Marking guide |
-| --- | --- |
-| [Assignment 1](https://drive.google.com/open?id=15OgA1v2V6eaS27v529SAtr5dpXHy_7U2) | [Marking Guide 1](https://drive.google.com/open?id=1aUzPZg9q-KBPZPGQW8Kzzxq1LW-WuSkd) |
-
+| Assignment # | Marking guide | Due Date |
+| --- | --- | --- |
+| TBR | TBR | TBC |
 
 </div>
