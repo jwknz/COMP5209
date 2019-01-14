@@ -1,4 +1,4 @@
-<div class="mycontent" markdown="1">
+<div class="mycontent" markdown="1" style="margin:0; padding:0">
 
 # Welcome to Interface Analysis and Design
 
