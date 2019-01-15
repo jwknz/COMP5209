@@ -31,10 +31,30 @@ Your tutor can be contacted through Moodle. You are free to choose to receive al
 
 # Classtimes
 
-| Day | Length | Time | Room |
-| --- | --- | --- | --- |
-| Monday | 120 Minutes | 9:00am - 11:00am | J141 |
-| Tuesday | 180 Minutes | 9:00am - 12:00pm | J141 |
+<table class="table table-striped" style="border-collapse: collapse; ">
+	<thead class="thead-light">
+		<tr>
+			<th>Day</th>
+			<th>Length</th>
+			<th>Time</th>
+			<th>Room</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td>Monday</td>
+			<td>120 Minutes</td>
+			<td>9:00am - 11:00am</td>
+			<td>J141</td>	
+		</tr>
+		<tr>
+			<td>Tuesday</td>
+			<td>180 Minutes</td>
+			<td>9:00am - 12:00pm</td>
+			<td>J141</td>	
+		</tr>
+	</tbody>
+</table>
 
 # Tutor
 
