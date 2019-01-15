@@ -23,11 +23,11 @@ This course also covers HTML and CSS to be able to code your designs.
 
 Your tutor can be contacted through Moodle. You are free to choose to receive all message by email or download the Moodle mobile app from the App Store:
 
-[Web Contact](https://moodle.toiohomai.ac.nz/message/index.php)
+<a href="https://moodle.toiohomai.ac.nz/message/index.php" target="_blank"><button class="btn btn-info">Contact using Moodle</button></a>
 
-[iOS App can be downloaded here](https://itunes.apple.com/nz/app/moodle/id633359593)
+<a href="https://itunes.apple.com/nz/app/moodle/id633359593" target="_blank"><button class="btn btn-primary">Download iOS App</button></a>
 
-[Android App can be downloaded here](https://play.google.com/store/apps/details?id=com.moodle.moodlemobile)
+<a href="https://play.google.com/store/apps/details?id=com.moodle.moodlemobile" target="_blank"><button class="btn btn-success">Download Android App</button></a>
 
 # Classtimes
 
@@ -38,7 +38,7 @@ Your tutor can be contacted through Moodle. You are free to choose to receive al
 
 # Tutor
 
-<table style="border-collapse: collapse; ">
+<table class="table" style="border-collapse: collapse; ">
     <tr>
         <td style="width: 30%">Name:</td>
         <td style="width: 50%">Jeffrey Kranenburg</td>
