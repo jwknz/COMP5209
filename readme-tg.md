@@ -21,7 +21,9 @@ This course also covers HTML and CSS to be able to code your designs.
 
 ## Contact your tutor
 
-Your tutor can be contact through Moodle. You are free to choose to receive all message by email or download the Moodle mobile app from the App Store:
+Your tutor can be contacted through Moodle. You are free to choose to receive all message by email or download the Moodle mobile app from the App Store:
+
+[Web Contact](https://moodle.toiohomai.ac.nz/message/index.php)
 
 [iOS App can be downloaded here](https://itunes.apple.com/nz/app/moodle/id633359593)
 
