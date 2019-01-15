@@ -69,10 +69,6 @@ Your tutor can be contacted through Moodle. You are free to choose to receive al
         <td><a href="mailto: jeffrey.kranenburg@toiohomai.ac.nz" target="_blank">jeffrey.kranenburg@toiohomai.ac.nz</a> (used for official matters)</td>
     </tr>
     <tr>
-        <td><i class="fa fa-microsoft">&nbsp;</i>MS Teams:</td>
-        <td><a href="https://teams.microsoft.com/_#/conversations/8:orgid:2df592c5-76c7-411a-85e7-a2ce12d355d3?ctx=chat" target="_blank">@jeffrey</a></td>
-    </tr>
-    <tr>
         <td><i class="fa fa-github">&nbsp;</i>Github:</td>
         <td><a href="https://github.com/to-jk11" target="_blank">@to-jk11</a></td>
     </tr>
