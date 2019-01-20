@@ -74,10 +74,4 @@ Your tutor can be contacted through Moodle. You are free to choose to receive al
     </tr>
 </table>
 
-# Assignments
-
-| Assignment # | Marking guide | Due Date |
-| --- | --- | --- |
-| TBR | TBR | TBC |
-
 </div>
